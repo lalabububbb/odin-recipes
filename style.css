@@ -14,9 +14,9 @@ html, body {
   width: 35%;
 }
 
-.recipe{
+.recipe,
+.description{
   font-size: 20px;
-  font-weight: 800;
 }
 
 .title{
