@@ -19,8 +19,9 @@ html, body {
   font-weight: 800;
 }
 
-.title#main-title{
+.title{
   margin-top: 0;
+  margin-bottom: 0;
   font-size: 60px;
   color: white;
   background-color: gray;
