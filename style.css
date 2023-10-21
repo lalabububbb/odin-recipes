@@ -26,3 +26,13 @@ html, body {
   color: white;
   background-color: gray;
 }
+
+.sub-heading{
+  text-align: center;
+}
+
+ol,
+ul{
+  width: 20%;
+  margin: auto;
+}
