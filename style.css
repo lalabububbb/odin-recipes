@@ -15,6 +15,7 @@ html, body {
 }
 
 .recipe,
+.recipe-link,
 .description{
   font-size: 20px;
 }
