@@ -3,7 +3,7 @@ html, body {
   padding:0;
   }
 
-.center:not(ul),
+.center,
 .sub-heading{
   text-align: center;
 }
@@ -15,6 +15,9 @@ html, body {
   width: 35%;
 }
 
+ul{
+  text-align: left;
+}
 
 
 .recipe,
